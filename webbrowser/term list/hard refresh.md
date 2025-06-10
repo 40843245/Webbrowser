@@ -1,4 +1,4 @@
-# hard fresh
+# hard refresh
 ## intro
 A hard refresh, also known as a force refresh or empty cache and hard reload typically 
 
